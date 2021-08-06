@@ -1,0 +1,41 @@
+body
+{
+color:#ffffff;
+background:rgb(140, 0, 255);
+}
+
+.heading
+{
+    width:80%;
+    font: size 30px;
+    color:darkgreen;
+}
+
+#camera
+{
+    border: 2px dashed orange;
+    width:400px;
+    height:350px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color:lightpink;
+    font-size: 25px;
+}
+
+h3
+{
+    font-size:30px;
+}
+
+p
+{
+    font-size:30px;
+}
+
+label
+{
+    color: black;
+    font-size: 25px;
+}
